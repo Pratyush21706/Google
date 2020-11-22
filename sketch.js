@@ -14,7 +14,7 @@ function draw(){
       if(window.innerWidth<799){
         console.log('I will do It ')
             select(`.logo`).style(`font-size`,`50pt`)
-                              select(`.hr`).style(`margin-left`,`68%`)
+                              select(`.hr`).style(`margin-left`,`65%`)
 
 //margin-top
     }
